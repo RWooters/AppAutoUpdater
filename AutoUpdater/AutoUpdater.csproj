@@ -76,6 +76,7 @@
     <Compile Include="DownloadProgress.designer.cs">
       <DependentUpon>DownloadProgress.cs</DependentUpon>
     </Compile>
+    <Compile Include="DownloadUpgrades.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
